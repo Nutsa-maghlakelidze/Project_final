@@ -8,17 +8,17 @@ This is a Flask project that allows users to manage meals in a restaurant. Users
    
    git clone https://github.com/Nutsa-maghlakelidze/Project_final.git
 
-#2. Install Flask:
+2. Install Flask:
 in pycharm console write: pip install Flask
 
-#3 Install database navigator:
+3 Install database navigator:
 Go to Settings > Plugins > Database Navigator in PyCharm.
 Install the Database Navigator plugin.
 
-#4. Initialize the database:
+4. Initialize the database:
 Run init_db.py to set up the SQLite database.
 
-#5. Launch SQLite and connect to the database:
+5. Launch SQLite and connect to the database:
 Right-click database.db in PyCharm, copy its absolute path.
 Open a SQLite database management tool (DB Browser).
 Click on + 

@@ -5,7 +5,6 @@ This is a Flask project that allows users to manage meals in a restaurant. Users
 ## Installation
 
 1. Clone the repository to your local machine:
-   
    git clone https://github.com/Nutsa-maghlakelidze/Project_final.git
 
 2. Install Flask:

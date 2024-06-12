@@ -11,7 +11,7 @@ This is a Flask project that allows users to manage meals in a restaurant. Users
 2. Install Flask:
 in pycharm console write: pip install Flask
 
-3 Install database navigator:
+3. Install database navigator:
 Go to Settings > Plugins > Database Navigator in PyCharm.
 Install the Database Navigator plugin.
 
